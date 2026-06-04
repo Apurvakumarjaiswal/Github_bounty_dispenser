@@ -4,3 +4,4 @@ another test line
 6
 18
 22
+120
